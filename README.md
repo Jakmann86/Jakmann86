@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Joakim Kristiansen
-- 👀 I’m interested in Music, outdoors, books. 
+- 👀 I’m interested in making music, the outdoors and books. 
 - 🌱 I’m currently learning Python, SQL, Django, HTML and CSS
-- 💞️ I’m looking to keep learning and upskilling
+- 💞️ I’m looking to keep learning, upskilling and keep building. 
 - 📫 How to reach me https://www.linkedin.com/in/joakim-kristiansen-585358233/
+ 
 
 <!---
 Jakmann86/Jakmann86 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
