@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python, SQL, Django, HTML and CSS
 - 💞️ I’m looking to keep learning, upskilling and keep building. 
 - 📫 How to reach me https://www.linkedin.com/in/joakim-kristiansen-585358233/
-- https://www.codewars.com/users/Jakmann86/badges/large
+- ![Code Wars Progress]( https://www.codewars.com/users/Jakmann86/badges/large)
  
 
 <!---
